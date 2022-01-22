@@ -1,5 +1,19 @@
 body{
-    background-color: #121212;
+    background-color: #181818;
     color: #eee;
     min-height: 100vh;
+}
+
+nav{
+    height: 3.5rem;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-family: 'Electrolize', sans-serif;
+    color: chartreuse;
+    box-shadow: #000 0px 2px 4px;
 }
